@@ -1,6 +1,6 @@
 # group-project Hit Movie Project
 ## Scope
-### To use databases and supervised machine learning predict if a movie will be a hit or not.
+### To use databases and supervised machine learning to predict if a movie will be a hit or not.
 Chose this topic because we all enjoy watching movies and prefer movies that are 'hits'.
 
 ### Utilized the following items for the “hit movie project".
