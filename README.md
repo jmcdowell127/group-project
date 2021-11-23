@@ -5,7 +5,7 @@
 ## Overview of Presentation
 
 
-[Google Slides Presentation](https://docs.google.com/presentation/d/1ffu_9Blp36GUOre-hPolBHvnzBkT2dG2YVnBj6VuBTc/edit#slide=id.gfa7f642fd3_0_15)
+[Google Slides Presentation](https://docs.google.com/presentation/d/1NvvILCPFJwhJ9YsGHEij6EZMNrbiN6z8T5EJUJ1asY0/edit#slide=id.g1033fb929ec_2_77)
 
 
 ### Topic
