@@ -26,7 +26,7 @@ As a group we are all fans of movies and are curious to see what really effects 
 2.	Pandas / Python / Sqlalchemy / Scikit-learn / Seaborn
 3.	SQLite to clean and integrate data
 4.	Tableau for visualizations and final presentation
-5.	Created two classification algorithms to identify whether a movie is a hit based off of: 
+5.	Created two algorithms to identify whether a movie is a hit based off of: 
     * Profitability
     * Metascore
 
@@ -53,7 +53,7 @@ After reviewing the data in our database we noticed that there are strong correl
 
 
 ## Machine Learning (Logistic Regression)
-Preproccessed the data by removing unnecessary columns, then created three new columns (gross_profit, blockbuster, and meta_hit) by creating the following classification algorithms:
+Preproccessed the data by removing unnecessary columns, then created three new columns (gross_profit, blockbuster, and meta_hit) by creating the following algorithms:
 * <img width="548" alt="grossProfit" src="https://user-images.githubusercontent.com/85372441/142783163-2f1b52e7-8f48-4c0a-8fc2-020f3932bf50.png">
 * <img width="566" alt="blockbuster" src="https://user-images.githubusercontent.com/85372441/142783167-8a386a66-57ac-4cc5-8210-1ddd059625a8.png">
 * <img width="274" alt="metaHit" src="https://user-images.githubusercontent.com/85372441/142783180-1ea6a061-9b8b-4315-8ea5-f78aabbf111b.png">
